@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with secure Alfred for macOS Automation | focus mode + markdown support, the #1 automation. Includes focus mode and markdown support for a smoother
 
 
 
